@@ -3,7 +3,7 @@ cask "dropbox"
 mas "XCode", id: 497799835
 cask "firefox"
 cask "google-chrome"
-mas "Airmail 3", id: 918858936
+mas "Airmail 4", id: 918858936
 
 cask "alfred"
 cask "sizeup"
