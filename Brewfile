@@ -8,6 +8,7 @@ cask "alfred"
 cask "sizeup"
 cask "bartender"
 
+cask "visual-studio-code"
 cask "iterm2"
 
 mas "1Password 7", id: 1333542190
