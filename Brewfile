@@ -1,5 +1,4 @@
 brew "zsh"
-cask "dropbox"
 mas "XCode", id: 497799835
 cask "firefox"
 cask "google-chrome"
@@ -9,7 +8,6 @@ cask "alfred"
 cask "sizeup"
 cask "bartender"
 
-cask "textmate"
 cask "iterm2"
 
 mas "1Password", id: 443987910
@@ -27,7 +25,6 @@ brew "postgresql"
 brew "awscli"
 brew "rbenv"
 brew "kubectl"
-brew "kops"
 brew "kubernetes-helm"
 brew "heroku"
 brew "nodenv"
@@ -44,8 +41,6 @@ cask "microsoft-office"
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
-
-cask "skitch"
 
 cask "keybase"
 cask "virtualbox"
