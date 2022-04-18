@@ -10,7 +10,7 @@ cask "bartender"
 
 cask "iterm2"
 
-mas "1Password", id: 443987910
+mas "1Password 7", id: 1333542190
 mas "Slack", id: 803453959
 
 tap "heroku/brew"
