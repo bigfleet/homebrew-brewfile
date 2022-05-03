@@ -30,6 +30,7 @@ brew "helm"
 brew "heroku"
 brew "nodenv"
 brew "terraform"
+brew "wget"
 
 cask "docker"
 
