@@ -1,5 +1,11 @@
 brew "zsh"
+cask "1password"
+cask "1password-cli"
+brew "asdf"
+brew "direnv"
+
 mas "XCode", id: 497799835
+
 cask "firefox"
 cask "google-chrome"
 mas "Airmail 4", id: 918858936
@@ -11,7 +17,6 @@ cask "bartender"
 cask "visual-studio-code"
 cask "iterm2"
 
-mas "1Password 7", id: 1333542190
 mas "Slack", id: 803453959
 
 tap "heroku/brew"
@@ -20,23 +25,15 @@ brew "jshon"
 brew "jq"
 brew "tree"
 brew "most"
-brew "ansible"
-brew "pyenv-virtualenv"
+brew "atuin"
+
 brew "postgresql"
-brew "awscli"
-brew "azure-cli"
-brew "tektoncd-cli"
-brew "rbenv"
-brew "kubectl"
-brew "helm"
 brew "heroku"
-brew "nodenv"
-brew "terraform"
-brew "wget"
 
-cask "docker"
+brew "podman"
+brew "podman-compose"
+cask "podman-desktop"
 
-mas "Pocket", id: 568494494
 mas "DaisyDisk", id: 411643860
 mas "Evernote", id: 406056744
 
@@ -47,5 +44,3 @@ mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 
 cask "keybase"
-cask "virtualbox"
-cask "vagrant"
